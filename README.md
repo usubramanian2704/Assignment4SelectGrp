@@ -2,7 +2,7 @@
 INSTRUCTIONS FOR RUNNING THE PROJECT
 ==========================================================================
 The coding for this project is provided in a ZIP format. Follow the Steps to Run your project in your local.
-1) Unzip 'Assignment4SelectGrp.zip'.
+1) Download the project from GITHUB.
 2) Save this in a convenient location in the local in your computer.
 3) Open IntelliJ or Eclipse in your computer.
 [Note: If you do not have either, install IntelliJ from the below link.
